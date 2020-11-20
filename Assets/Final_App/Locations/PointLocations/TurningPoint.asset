@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63d15506dd69f48a388fc9c4976162, type: 3}
+  m_Name: TurningPoint
+  m_EditorClassIdentifier: 
+  Locations:
+  - Latitude: 37.57833
+    Longitude: 126.97644
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57865
+    Longitude: 126.97649
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57867
+    Longitude: 126.97575
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.5791
+    Longitude: 126.97552
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57903
+    Longitude: 126.97678
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57918
+    Longitude: 126.9768
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57916
+    Longitude: 126.97701
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57998
+    Longitude: 126.97753
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  SplineType: 1
+  Alpha: 0
+  SceneViewScale: 0.21757407

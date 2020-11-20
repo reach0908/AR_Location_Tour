@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c63d15506dd69f48a388fc9c4976162, type: 3}
+  m_Name: NaviBlocks
+  m_EditorClassIdentifier: 
+  Locations:
+  - Latitude: 37.57609
+    Longitude: 126.97691
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57641
+    Longitude: 126.97688
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57668
+    Longitude: 126.97689
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57699
+    Longitude: 126.97687
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57727
+    Longitude: 126.97687
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57755
+    Longitude: 126.97689
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57777
+    Longitude: 126.97693
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57801
+    Longitude: 126.97692
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.5783
+    Longitude: 126.97693
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57831
+    Longitude: 126.97669
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57833
+    Longitude: 126.97644
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57847
+    Longitude: 126.97646
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57865
+    Longitude: 126.97649
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57865
+    Longitude: 126.97625
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57865
+    Longitude: 126.97601
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57867
+    Longitude: 126.97575
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.5789
+    Longitude: 126.97565
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.5791
+    Longitude: 126.97552
+    Altitude: 0
+    AltitudeMode: 0
+    Label: start
+  - Latitude: 37.57912
+    Longitude: 126.97577
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57912
+    Longitude: 126.97603
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57909
+    Longitude: 126.97627
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57907
+    Longitude: 126.97654
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57903
+    Longitude: 126.97678
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57918
+    Longitude: 126.9768
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57916
+    Longitude: 126.97701
+    Altitude: 0
+    AltitudeMode: 0
+    Label: start
+  - Latitude: 37.57933
+    Longitude: 126.97703
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57947
+    Longitude: 126.97728
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57961
+    Longitude: 126.97751
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.5798
+    Longitude: 126.97753
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57998
+    Longitude: 126.97753
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57996
+    Longitude: 126.97781
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  - Latitude: 37.57996
+    Longitude: 126.9781
+    Altitude: 0
+    AltitudeMode: 0
+    Label: 
+  SplineType: 1
+  Alpha: 0
+  SceneViewScale: 0.15370968

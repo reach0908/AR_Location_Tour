@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7087866889231092631
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7087866889231092629}
+  - component: {fileID: 7087866889231092628}
+  m_Layer: 0
+  m_Name: PlaceAtLocations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7087866889231092629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7087866889231092631}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7087866889231092628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7087866889231092631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c56c9eb6d14e4854b316f59e1296fb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Locations:
+  - LocationInput:
+      LocationInputType: 1
+      LocationData: {fileID: 11400000, guid: 945318ad5f28280479235d81c7b559f4, type: 2}
+      Location:
+        Latitude: 0
+        Longitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 1
+      LocationData: {fileID: 11400000, guid: 70473db4ffbfbc14caf57c7f133f3e24, type: 2}
+      Location:
+        Latitude: 0
+        Longitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 1
+      LocationData: {fileID: 11400000, guid: 1d6f6e012713b004fbe5c4245dfa8059, type: 2}
+      Location:
+        Latitude: 0
+        Longitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 1
+      LocationData: {fileID: 11400000, guid: b190dda516c3f714194bf789ea3cc63d, type: 2}
+      Location:
+        Latitude: 0
+        Longitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 1
+      LocationData: {fileID: 11400000, guid: 771af72e4765743488b68d1beb61cdeb, type: 2}
+      Location:
+        Latitude: 0
+        Longitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  - LocationInput:
+      LocationInputType: 1
+      LocationData: {fileID: 11400000, guid: 7a191fd67f9711d479436710ab866f8c, type: 2}
+      Location:
+        Latitude: 0
+        Longitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+        Label: 
+      OverrideAltitudeData:
+        OverrideAltitude: 0
+        Altitude: 0
+        AltitudeMode: 0
+  PlacementOptions:
+    MovementSmoothing: 0.1
+    MaxNumberOfLocationUpdates: 0
+    UseMovingAverage: 0
+    HideObjectUntilItIsPlaced: 0
+    ShowObjectAfterThisManyUpdates: 1
+  Prefab: {fileID: 2198125378339800612, guid: fda24f3bbd1b8084c8db1d363f784a0f, type: 3}
+  DebugMode: 1

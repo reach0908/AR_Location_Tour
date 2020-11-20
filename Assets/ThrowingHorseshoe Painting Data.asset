@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de965f2e710c1c489ead8e62cd25da0, type: 3}
+  m_Name: ThrowingHorseshoe Painting Data
+  m_EditorClassIdentifier: 
+  hullData: {fileID: 11400000, guid: 0fe87c15aece84ad292bf0b1997b9f52, type: 2}
+  sourceMesh: {fileID: 4300004, guid: 46534e6fc34e21049ba577ec373db1a0, type: 3}
+  activeHull: 0
+  faceThickness: 0.1
+  hulls:
+  - name: Hull 1
+    isVisible: 1
+    type: 1
+    colour: {r: 0, g: 1, b: 1, a: 0.3}
+    material: {fileID: 13400000, guid: 2a87079a216f4b8fb2b7edcb25cb6914, type: 2}
+    enableInflation: 0
+    inflationAmount: 0.01
+    isTrigger: 0
+    selectedFaces: 75020000da020000c0020000670200005a020000ca00000020030000220300002403000025030000270300002a0300002c030000040200000502000000020000f5010000fa0100008e0100008f01000091010000930100009d010000a2010000a9010000af010000b5010000bb010000c1010000c3010000d3010000e6010000e30100002f0300003203000035030000430300004d0300005803000064030000450300003f030000330300002d030000c4030000d5030000ed010000820000008a00000090000000960000009c000000a3000000a8000000ae000000680300006a030000560300001d030000ac000000a0000000a10000009a000000940000008e0000008800000056010000080200000d0200000b020000fc010000f6010000ef0100001e0100001d0100008801000089010000a0010000a4010000ab010000b1010000b2010000
+    collisionMesh: {fileID: 9195866511122833090, guid: 0fe87c15aece84ad292bf0b1997b9f52,
+      type: 2}
+    faceCollisionMesh: {fileID: 0}
+    collisionBox:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0, y: 0, z: 0}
+    hasColliderError: 0
+    numColliderFaces: 233
